@@ -10,7 +10,7 @@ Source file for [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en
 
 
 ## Base layer
-![Base layer](images/base.png)
+![Base layer](Images/base.png)
 
 ## Alt Gr layer
-![Alt Gr layer](images/altgr.png)
+![Alt Gr layer](Images/altgr.png)
