@@ -1,4 +1,4 @@
-# NorANSI
+# Nansi
 ### Norwegian layout for ANSI keyboards for Microsoft Windows.
 
 
